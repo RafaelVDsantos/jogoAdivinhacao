@@ -1,0 +1,56 @@
+body{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+h2{
+    font-family: Courier;
+    color:cornsilk;
+    font-size: 50px;
+    /*text-align: center;*/
+    /*margin-top: 230px;*/
+}
+
+h5{
+     font-family: Courier;
+     color:cornsilk;
+     font-size: 18px;
+}
+label{
+    font-family: Courier;
+     color:cornsilk;
+}
+
+input{
+    border-radius: 20px;
+    /*margin-left: 530px;*/
+    height: 35px;
+    width: 510px;
+    text-align: center;
+    border-color: rgb(151, 8, 235);
+    color:rgb(117, 0, 252);    
+    font-size: 25px;
+}
+
+section{
+    margin-top: 180px;
+    align-items: center;
+    background-color: blueviolet;
+    display: flex;
+    height: 400px;
+    width: 700px;
+    flex-direction: column;
+    border-color: rgb(243, 0, 0);
+}   
+    
+}
+
+.boton{
+    border-radius: 30px;
+    color: blueviolet;
+    background-color: white;
+    
+}
